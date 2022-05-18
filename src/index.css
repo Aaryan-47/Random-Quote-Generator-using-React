@@ -1,0 +1,41 @@
+#quote-box
+{
+    position:relative;
+    padding:50px;
+    left:250px;
+    top:55px;
+    display:flex;
+    background-color: rgb(213, 232, 244);
+    width:980px;
+    flex-direction:column;
+}
+#text
+{
+    font-size: 30px;
+    font-family: 'Koulen', cursive;
+}
+img{
+    width:40px;
+}
+#body{
+    width:auto;
+    height:1000px;
+}
+#author
+{
+    width:300px;
+    font-size:23px;
+    position:relative;
+    left:650px;
+    word-wrap: break-word;
+    font-style: italic;
+}
+#new-quote
+{
+    color:aliceblue;
+    position:relative;
+    left:580px;
+    top:15px;
+    width:270px;
+    font-size:20px;
+}
